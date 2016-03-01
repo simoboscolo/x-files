@@ -1,0 +1,11 @@
+.two-columns {
+	width: 80%;
+	margin: 100px 15% 0 15%;
+}
+
+.justify {
+	width: 35%;
+	text-align: justify;
+	margin-left: 5%;
+	float: left;
+}
